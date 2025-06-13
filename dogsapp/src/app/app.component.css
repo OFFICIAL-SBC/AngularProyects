@@ -1,0 +1,12 @@
+.title{
+    color:aliceblue;
+    font-family: 'Segoe UI', Tahoma;
+    font-weight: bold;
+    font-size: larger;
+}
+
+footer{
+    background-color: #030303;
+    color: aliceblue;
+    text-align: center;
+}
